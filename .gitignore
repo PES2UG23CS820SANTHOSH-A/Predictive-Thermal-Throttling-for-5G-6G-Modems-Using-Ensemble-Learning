@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (optional - remove if you want to upload CSV)
+data/
+*.csv
+
+# Model files (optional - if large)
+*.h5
+*.pt
+*.pkl
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Docker
+*.tar
+
+# Misc
+.env
